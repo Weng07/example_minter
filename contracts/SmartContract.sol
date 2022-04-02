@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: GPL-3.0
 
 // Created by HashLips
-// The Nerdy Coder Clones
+// The CreeptoThumbs
 
 pragma solidity ^0.8.0;
 

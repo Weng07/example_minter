@@ -1221,8 +1221,8 @@ abstract contract Ownable is Context {
 
 
 
-// Created by HashLips
-// The Nerdy Coder Clones
+// Created by Weng
+// The CreeptoThumbs
 
 pragma solidity ^0.8.0;
 
