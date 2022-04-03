@@ -145,7 +145,7 @@ function App() {
                   Excluding gas fee.
                 </s.TextDescription>
                 <s.SpacerSmall />
-                <s.TextDescription style={{ textAlign: "center" }}>
+                <s.TextDescription style={{ textAlign: "center", color: "black" }}>
                   {feedback}
                 </s.TextDescription>
                 <s.SpacerMedium />
